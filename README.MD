@@ -91,3 +91,6 @@ Se creó el tag 1.0.1
 - fix
 - docs
 - chore
+
+## Captura de pantalla
+
