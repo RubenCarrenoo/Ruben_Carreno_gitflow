@@ -59,7 +59,7 @@ Finalización:
 git flow release finish 1.0.0
 
 Se creó el tag 1.0.0
-
+![alt text]({5C4D162E-1344-4E43-92F0-FA11B3325CE9}-1.png)
 ---
 
 ## 5. Creación de Hotfix
@@ -76,6 +76,12 @@ git flow hotfix finish 1.0.1
 
 Se creó el tag 1.0.1
 
+
+![alt text]({3351DDBD-A59C-47C8-A135-3A80A9AAA97C}.png)
+
+
+
+![alt text]({BD3042F9-1156-4E06-A623-9B4F3ED7B65E}.png)
 ---
 
 ## Estructura final del proyecto
@@ -91,3 +97,6 @@ Se creó el tag 1.0.1
 - fix
 - docs
 - chore
+
+## Captura de pantalla
+![alt text]({242B4586-B23F-4203-BE1E-E59C2A0ED203}.png)
