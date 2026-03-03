@@ -80,6 +80,8 @@ Se creó el tag 1.0.1
 ![alt text]({3351DDBD-A59C-47C8-A135-3A80A9AAA97C}.png)
 
 
+
+![alt text]({BD3042F9-1156-4E06-A623-9B4F3ED7B65E}.png)
 ---
 
 ## Estructura final del proyecto
